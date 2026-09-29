@@ -13,7 +13,7 @@ Agent Skills for Claude Code, Codex, OpenCode and any client that follows the [A
 With [skills.sh](https://github.com/vercel-labs/skills):
 
 ```sh
-npx skills add <owner>/skill-hub
+npx skills add PymesHub/skill-hub
 ```
 
 Manual: copy `skills/<name>/` into `~/.claude/skills/` (Claude Code), `~/.agents/skills/` (Codex) or `.opencode/skills/` (OpenCode).
